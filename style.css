@@ -1,6 +1,15 @@
 html{
   font-family: 'ZCOOL XiaoWei', serif !important;
 }
+.first2 {
+  background-image: url(images/b.jpg);
+  min-height: 1080px;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
 .first {
   background-image: url(images/b.jpg);
   background-color: rgba(0, 0, 0, 0.6);
@@ -9,14 +18,6 @@ html{
   background-attachment: fixed;
 
   color: black;
-}
-.first2 {
-background-image: url(images/b.jpg);
-min-height: 1080px;
-background-attachment: scroll;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
 }
 
 .bg1 {
